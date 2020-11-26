@@ -1,0 +1,6 @@
+Cov19API
+json
+pandas
+matplotlib.pyplot
+ipywidgets
+datetime

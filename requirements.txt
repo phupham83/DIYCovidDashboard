@@ -1,6 +1,7 @@
-Cov19API
+uk_covid19
 json
 pandas
 matplotlib.pyplot
 ipywidgets
 datetime
+voila

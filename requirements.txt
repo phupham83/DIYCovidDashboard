@@ -1,7 +1,5 @@
 uk_covid19
-json
 pandas
-matplotlib.pyplot
-ipywidgets
+matplotlib
 datetime
 voila

@@ -4,4 +4,4 @@ Click here for the voila link:
 [Voila](https://mybinder.org/v2/gh/phupham83/DIYCovidDashboard/main?urlpath=voila%2Frender%2FCovidDashboard.ipynb)
 
 Click here for the binder link:
-[![Binder](https://mybinder.org/v2/gh/phupham83/DIYCovidDashboard/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phupham83/DIYCovidDashboard/main)
